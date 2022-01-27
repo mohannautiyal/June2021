@@ -3,5 +3,4 @@ Line No 2
 Line 3
 new line in repo removed 
 New line added 270122
-added from remote repo 
-another commit from repo
+Removed two lines 

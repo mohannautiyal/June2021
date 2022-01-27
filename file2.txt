@@ -1,6 +1,7 @@
 Line 3 
 Line 4
 
+<<<<<<< HEAD
 New added now 27 jan
 
 
@@ -9,3 +10,6 @@ New added now 27 jan
 
 ADDED NEW LINE 27012022
 FETCH V S PULL
+=======
+Line removed from remote
+>>>>>>> 828e7a3504d97a7ce038e1a19efabd4346103a5b
